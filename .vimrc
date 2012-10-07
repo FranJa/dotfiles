@@ -56,6 +56,7 @@ if filereadable("/etc/vim/vimrc.local")
 source /etc/vim/vimrc.local
 endif
 
+" Para que ponga los números de línea
 set number
 
 " Para el resaltado de txt2tags
@@ -75,6 +76,7 @@ imap jj <ESC>
 
 
 " =============== Para VimWiki ==========================
+
 let g:vimwiki_folding=1
 
 
