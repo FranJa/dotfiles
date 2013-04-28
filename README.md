@@ -1,4 +1,4 @@
-Esto es de prueba
+Aquí guardo mis "dotfiles"
 =================
 
-No vale para *nada* más.
+En principio tenemos el .vimrc, posiblemente luego llegarán más...
